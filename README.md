@@ -66,11 +66,11 @@
 
 ## TODO
 ### 项目
-- [x] [项目分类结构图（阐明业务线，简述技术线）]
+- [x] [项目分类结构图（阐明业务线，简述技术线）](https://github.com/lijianyu1985/projects-thinking/blob/main/Images/%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 - [ ] [每个项目类型的通用业务模块简要设计]
 - [ ] [每个项目类型的通用业务模块详尽设计]
 ### 架构
-- [x] [前期架构（技术体系结构，代码分支结构）]
+- [x] [前期架构（技术体系结构，代码分支结构）](https://github.com/lijianyu1985/projects-thinking/blob/main/Images/%E5%89%8D%E6%9C%9F%E6%9E%B6%E6%9E%84.png)
 - [ ] [中期调整（分析前期架构，计划后期架构，设计过渡架构，技术体系结构，代码分支结构）]
 - [ ] [后期定型（SAAS架构分析，SAAS架构设计，技术体系，代码分支）]
 ### 技术栈
