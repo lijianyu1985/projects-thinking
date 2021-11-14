@@ -58,5 +58,7 @@
 * VueJs
 * React
 * Ionic Framwork
+* AntDesign （React、Vue、Angular）
 * 必须实现微信、字节、快手小程序，APP可以不考虑但是小程序必须要做，H5优先级居中，建议使用uni-app+某响应式布局库
+* 管理后台建议使用AntD Vue，虽然没有React版本成熟，但是考虑到统一语言的点，还是建议拥抱VUE体系
 
