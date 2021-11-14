@@ -76,9 +76,9 @@
 ### 技术栈
 - [x] [后端技术选型和分析] [MongoDB + NestJS, 文档数据库具有更好的变更能力，NestJS具有强大的功能和丰富的社区支持很适合小型项目的快速成长]
 - [x] [前端技术选型和分析] [前端毋庸置疑是uni-app，没有其他的框架可以更好的实现多端小程序，Taro也不错，但是没有uni-app成熟，而且社区也没有uni-app热]
-- [x] [管理后台技术选型和分析] [虽然现在有成熟的antd react，但是还是选择antd vue框架，这样可以统一一套vue语言]
+- [x] [管理后台技术选型和分析] [还是选择antd react框架，因为antd vue实在是不好用]
 ### 代码
-- [ ] [uni-app + antd vue + nestjs + mongodb 脚手架]
+- [ ] [uni-app + antd react + nestjs + mongodb 脚手架]
 - [ ] [通用核心代码库]
 - [ ] [API通用核心业务模块（权限控制，账户，角色，权限，资源，客户，TODO）]
 - [ ] [Admin通用核心业务模块（权限控制，账户，角色，权限，资源，客户，TODO）]
